@@ -1,0 +1,25 @@
+:root {
+    --app-accent: #0d6efd;
+    --app-bg: #f3f6fb;
+}
+
+body {
+    background: var(--app-bg);
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.badge {
+    font-size: 0.85rem;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.alert ul {
+    margin-bottom: 0;
+}
